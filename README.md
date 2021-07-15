@@ -1,5 +1,5 @@
 # Plant-Seedling-Classification
-The dataset comprises of images from 12 plant species. Source: https://www.kaggle.com/c/ plant-seedlings-classification/data
+The dataset comprises of images from 12 plant species. Source: https://www.kaggle.com/c/plant-seedlings-classification/data
 
 DOMAIN: Botanical research
 • CONTEXT: University X is currently undergoing some research involving understanding the characteristics of
